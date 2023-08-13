@@ -5,9 +5,9 @@
 
 ## Deploy
 First go to vercel and click the create app button:
-<img src="https://assets.halit.org/vercel-docs/1660510679451.png">
+<img src="https://assets.halit.org/assets/github-repos/vercel-docs/1.png">
 find your github repo and click the import button.
-<img src="https://assets.halit.org/vercel-docs/1660510791115.png">
+<img src="https://assets.halit.org/assets/github-repos/vercel-docs/2.png">
 after then you can click the 'Deploy' button.
 ### Demo
 
